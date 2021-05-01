@@ -1,2 +1,1 @@
 # ZuriTeam
-ZuriTeam Tasks
